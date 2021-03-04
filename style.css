@@ -1,8 +1,11 @@
 .w3-container, p {
     text-align: justify;
-    text-indent: 30px;
 }
 
 .w3-container, h3, h5 {
     text-align: left;
+}
+
+p {
+    text-indent: 30px;
 }
